@@ -1,0 +1,8 @@
+F:\Projects\FileLister\FileLister.WinForms\bin\Debug\FileLister.WinForms.exe.config
+F:\Projects\FileLister\FileLister.WinForms\bin\Debug\FileLister.WinForms.exe
+F:\Projects\FileLister\FileLister.WinForms\bin\Debug\FileLister.WinForms.pdb
+F:\Projects\FileLister\FileLister.WinForms\obj\Debug\FileLister.WinForms.Form1.resources
+F:\Projects\FileLister\FileLister.WinForms\obj\Debug\FileLister.WinForms.Properties.Resources.resources
+F:\Projects\FileLister\FileLister.WinForms\obj\Debug\FileLister.WinForms.csproj.GenerateResource.Cache
+F:\Projects\FileLister\FileLister.WinForms\obj\Debug\FileLister.WinForms.exe
+F:\Projects\FileLister\FileLister.WinForms\obj\Debug\FileLister.WinForms.pdb
